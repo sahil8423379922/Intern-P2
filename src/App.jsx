@@ -1,5 +1,7 @@
 import React from "react";
 import FoodList from "./component/FoodList";
+import "./Index.css";
+import "./App.css";
 
 export default function App() {
   const fooditem = [
